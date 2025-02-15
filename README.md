@@ -1,2 +1,2 @@
-# school-project-website
-school-project-website
+# ZSC-Community
+ZSC-Community
